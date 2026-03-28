@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="assets\images\" />
+    <Folder Include="assets\gifs\" />
+  </ItemGroup>
+
 </Project>
